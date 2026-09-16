@@ -1,0 +1,21 @@
+{
+  "name": "Kasa Defteri",
+  "short_name": "Kasa Defteri",
+  "description": "macOS HIG standartlarında minimalist ve modern yerel kasa defteri ve finans takip uygulaması.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/vite.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Stok Defteri",
+  "description": "macOS HIG standartlarında minimalist ve modern yerel stok defteri, ürün kataloğu ve stok hareket takip uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
